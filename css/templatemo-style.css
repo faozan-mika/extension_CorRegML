@@ -78,6 +78,13 @@ p {
   margin-top: 10px;
 }
 
+.logo-img {
+  height: 240px;
+  width: auto;
+  vertical-align: middle;
+  margin-right: 8px;
+}
+
 .primary-blue-button a {
 	display: inline-block;
 	background-color: #33c1cf;
@@ -961,5 +968,6 @@ footer .connect-us ul li a:hover {
 		padding-right: 0px;
 		border-right: none;
 	}
+
 
 }
